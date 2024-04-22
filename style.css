@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 400px;
+    width: 300px;
+
+}
+#ball{
+    font-size: 16px;
+    border-image: url(./cropped-dragonball.png) !important;
+    border: 15px solid;
+}
+#cloud{
+    border-image: url(./akatsuki-7422263_640.png) !important;
+    border: 15px solid;
+    font-size: 16px;
+}
+a{
+    text-decoration: none
+}
+img{
+    height: 100px;
+}

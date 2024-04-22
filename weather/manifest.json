@@ -1,0 +1,12 @@
+{
+    "name": "Weather Information Check",
+    "version": "1.0.0",
+    "description": "This is an extension to check out weather of all the world",
+    "manifest_version": 3,
+    "author": "Zory Zheng",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Weather Information Check"
+    }
+
+}

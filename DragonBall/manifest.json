@@ -1,0 +1,12 @@
+{
+    "name": "Dragon Ball Characters Find",
+    "version": "1.0.0",
+    "description": "This is an extension to find character of Dragon Ball",
+    "manifest_version": 3,
+    "author": "Zory Zheng",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Dragon Ball Characters Find",
+        "default_icon": "ball.png"
+    }
+}

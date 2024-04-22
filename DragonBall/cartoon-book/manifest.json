@@ -1,0 +1,10 @@
+{
+    "name": "Seven Dragon Ball Cartoon Book",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Seven Dragon Ball Cartoon Book",
+        "default_icon": "icon.png"
+    }
+}
